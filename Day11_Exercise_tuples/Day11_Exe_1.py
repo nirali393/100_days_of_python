@@ -1,4 +1,4 @@
-# -------------------Exercise 3-------------------
+# -------------------Exercise 1-------------------
 # The following tuples are given:
 # dji1 = ('AAPL.US', 'IBM.US', 'MSFT.US')
 # dji2 = ('HD.US', 'GS.US', 'NKE.US')
