@@ -3,18 +3,12 @@ with open('playway.csv', 'r') as file:
     content = file.read().splitlines()
     # print(content)
     temp_var = 0
+    dict_value = {}
 
-    for i,j in content[1:]:
-        sep_str = int(i.split(',')[5])
-        date = j.split(',')[0]
-        # print(sep_str)
+    for line in content[1:]:
+        values = line.split(',')
+        dict_value.update({int(values[5]) : values[0]})
+        
 
-        if sep_str> temp_var:
-            temp_var = sep_str
-            
-            
-        else:
-            continue
-
-print(temp_var)
-
+max_key = max(dict_value.keys())
+print(f"Date for higest volue: {dict_value.get(max_key)}")
