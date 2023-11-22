@@ -1,0 +1,44 @@
+About Us:
+
+
+Our mission is to elevate leading brands through unforgettable digital connections with their customers. Sitecore delivers a composable digital experience platform that empowers the world’s smartest and largest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the leading company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Thousands of blue-chip companies including American Express, Porsche, Starbucks, L’Oréal, and Volvo Cars rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.
+
+
+Sitecore’s foundation is our diverse group of passionate, smart, innovative, and collaborative individuals located across four continents and over 25 countries. Having a wide range of perspectives, experiences, and skills is what makes us the company we are today. The Sitecore values are what drive and unite us across the globe.
+
+
+About the Role:
+
+
+As an Associate Operations Engineer in our Cloud Operations team, you will assist our global list of companies using Sitecore Cloud services and features to run mission-critical applications. You will work directly with the engineering teams to assist customers making use of the many Sitecore capabilities. You will also work directly with customers to provide the world class support that drives customer success.
+
+
+What You’ll Do:
+
+
+Learn the ground-breaking cloud technologies that power Sitecore Cloud
+Monitor health of all Sitecore Cloud services and ensure support activities are completed within predefined SLAs
+Proactively respond to outage or service level downgrade scenarios
+Interact with cloud and Sitecore technologists around the world and resolve customer issues
+Drive customer communication during critical events
+
+
+What You Need to Succeed:
+
+
+Typically required 1 year experience in a support role or another technical area such as Dev Ops engineering or SRE. Fresh graduates are encoraged to apply.
+In-depth knowledge of network structure, web application architectures, micro- services and related technologies
+Self-starter who is excited about technology with strong customer focus, troubleshooting & multi-tasking skills
+Excellent problem solving and logical thinking skills
+Excellent English verbal and written communication skills
+College degree in Engineering or equivalent experience
+
+
+Additional Skills That Could Set You Apart:
+
+
+Experience troubleshooting applications and infrastructure in an enterprise environment
+Relevant Microsoft certifications (such as MCSE or MCSM)
+Solid knowledge cloud services such as Azure, AWS and container virtualization
+Hands-on experience with Continuous Deployment practices, TeamCity or Jenkins tools
+Experience working in large enterprise environments
