@@ -2,13 +2,13 @@
 # Implement a function called maximum() that returns the maximum of two numbers. 
 # Use conditional statement.
 # ---------------------------------------------------------
-
-def maximum():
-    num1 = int(input("Enter number1: "))
-    num2 = int(input("Enter number2: "))
-    if num1 > num2:
-        print(num1)
-    else: 
-        print(num2)
-
-maximum()
+def maximum(a, b):
+     
+    if a >= b:
+        return a
+    else:
+        return b
+     
+a = float(input("Enter the value of a: "))
+b = float(input("Enter the value of b: "))
+print(maximum(a, b))
