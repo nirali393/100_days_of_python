@@ -10,9 +10,8 @@
 
 # taking array from user and stored in l
 arr = input("Enter Words in list seperated by a comma: ")
-l = list(map(str,arr.split(',')))     # map function will itrate on list and seperate by ,
-
-
+l = list(map(str,arr.split(' ')))     # map function will itrate on list and seperate by ,
+print(l)
 # functio
 def map_longest():
 
