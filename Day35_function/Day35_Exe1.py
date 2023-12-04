@@ -17,8 +17,8 @@ def count_str(inpup_list):
         for item in inpup_list:
             if isinstance(item, str):
                 strings_only.append(item)
-
-        return strings_only
+        result = len(strings_only)
+        return result
     except ValueError:
         pass
 
