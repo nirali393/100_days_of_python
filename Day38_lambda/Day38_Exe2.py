@@ -1,4 +1,4 @@
-# -------------------Exercise 1----------------------------
+# -------------------Exercise 2----------------------------
 # Sort the given list of dictionaries by price key:
 
 # stocks = [
