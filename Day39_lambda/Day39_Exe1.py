@@ -1,4 +1,4 @@
-# -------------------Exercise 3----------------------------
+# -------------------Exercise 1----------------------------
 # The following list is given:
 
 # stocks = [
@@ -6,7 +6,8 @@
 #     {'index': 'mWIG40', 'name': 'PLW', 'price': 309},
 #     {'index': 'sWIG80', 'name': 'BBT', 'price': 22}
 # ]
-# Extract companies from the 'mWIG40' index and print the result to the console.
+
+# Convert the list to a list of boolean values (True, False). True if the company belongs to the 'mWIG40' index, False on the contrary and print the result to the console.
 # ---------------------------------------------------------
 
 stocks = [
@@ -15,7 +16,4 @@ stocks = [
     {'index': 'sWIG80', 'name': 'BBT', 'price': 22}
 ]
 
-def company():
-    print(list(filter(lambda item: item['index'] == 'mWIG40', stocks)))
-
-company()
+print(list(map(lambda x: x['index'] == 'mWIG40', stocks)))
