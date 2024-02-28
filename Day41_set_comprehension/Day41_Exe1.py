@@ -4,13 +4,11 @@
 # count the probability of getting a sum of points higher than 10. 
 # Use set comprehension.
 # ---------------------------------------------------------
-omega = {}
-temp = 0
-for i in range(1, 7):
-    for j in range(1, 7):
-        omega[(i, j)] = i + j
-        if i + j > 10:
-            temp +=1
+set_range = range(1,7)
+t = 0
 
-result = temp/len(omega)
-print(f"Probability {result}" )
+omega = {(i,j): i+j for i in set_range for j in set_range}
+count_of_occurance = len(set(val for val in omega.values() if val>10))
+result = (count_of_occurance+1)/len(omega)
+
+print(f" Probability: {round(result,4)}")
