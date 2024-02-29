@@ -1,4 +1,4 @@
-# -------------------Exercise 1---------------------------- 
+# -------------------Exercise 2---------------------------- 
 # The following text is given:
 # desc = "Playway: Playway is a producer of computer games."
 
