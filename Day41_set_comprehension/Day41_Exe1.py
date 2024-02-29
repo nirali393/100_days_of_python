@@ -5,7 +5,6 @@
 # Use set comprehension.
 # ---------------------------------------------------------
 set_range = range(1,7)
-t = 0
 
 omega = {(i,j): i+j for i in set_range for j in set_range}
 count_of_occurance = len(set(val for val in omega.values() if val>10))
