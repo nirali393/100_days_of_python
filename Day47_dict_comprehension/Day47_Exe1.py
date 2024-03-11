@@ -19,5 +19,4 @@ properties = ['number of companies', 'companies', 'cap']
 indeks = ['WIG20', 'mWIG40', 'sWIG80']
 
 company_dict = {k: {j: None for j in properties} for k in indeks}
-    
 print(company_dict)
