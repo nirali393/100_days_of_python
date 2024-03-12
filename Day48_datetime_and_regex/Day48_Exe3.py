@@ -1,4 +1,4 @@
-# -------------------Exercise 2---------------------------- 
+# -------------------Exercise 3---------------------------- 
 # Using the built-in module for regular expressions, find all alphanumeric characters in the following text:
 # string = '!@#$%^&45wc'
 
