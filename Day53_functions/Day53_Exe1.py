@@ -1,4 +1,4 @@
-# -------------------Exercise 3---------------------------- 
+# -------------------Exercise 1---------------------------- 
 # Implement a function called relu() (ReLU - Rectified Linear Unit). This function is used in neural networks and is given by the following formula:
 
 # Note: You only need to implement this function.
