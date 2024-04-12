@@ -1,4 +1,4 @@
-# -------------------Exercise 1---------------------------- 
+# -------------------Exercise 3---------------------------- 
 # MSE - Mean Squared Error is a function that allows you to check the accuracy of the machine learning model. MSE is popular in regression models.
 # For any:
 
