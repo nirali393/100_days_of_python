@@ -1,4 +1,4 @@
-# -------------------Exercise 1---------------------------- 
+# -------------------Exercise 3---------------------------- 
 # Implement a function called transfer_zeros() which takes the list as an argument and return list with all zeros at the end.
 
 # Example:
