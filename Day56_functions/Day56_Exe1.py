@@ -25,5 +25,5 @@ def transpose(array):
         result.append(pair)
     return result
 
-array = [[1, 2], [3, 4], [5, 6]]
-print(transpose(array))
+array_list = [[1, 2], [3, 4], [5, 6]]
+print(transpose(array_list))
